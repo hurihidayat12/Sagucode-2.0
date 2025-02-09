@@ -44,11 +44,11 @@
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Our Services</h4>
                     <ul>
-                        <li><a href="#">Web Design</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Product Management</a></li>
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Graphic Design</a></li>
+                        <li><a href="#">Threat Intelligence</a></li>
+                        <li><a href="#">Development Website</a></li>
+                        <li><a href="#">Penetrasi Testing</a></li>
+                        <li><a href="#">Vulnerability Assessment</a></li>
+                        <li><a href="#">Development IOT</a></li>
                     </ul>
                 </div>
 
@@ -75,5 +75,4 @@
 
     </footer>
 </body>
-
 </html>

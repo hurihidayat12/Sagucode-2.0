@@ -39,7 +39,7 @@
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
             <a href="index.html" class="logo d-flex align-items-center">
-                <img src="assets/img/code.png" alt="">
+                <img src="assets/img/oke.png" alt="" style="widht:1000px;">
                 <!-- Uncomment the line below if you also wish to use text logo -->
                 <!-- <h1 class="sitename">NewBiz</h1>  -->
             </a>
