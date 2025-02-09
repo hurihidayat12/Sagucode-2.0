@@ -5,13 +5,13 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>Sagucode - Cyber Security</title>
+        <title>Budakite - Cyber Security</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
 
         <!-- Favicons -->
-        <link href="assets/img/favicon.png" rel="icon">
-        <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+        <link href="assets/img/22.png" rel="icon">
+        <link href="assets/img/22.png" rel="apple-touch-icon">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -39,7 +39,7 @@
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
             <a href="index.html" class="logo d-flex align-items-center">
-                <img src="assets/img/oke.png" alt="" style="widht:1000px;">
+                <img src="assets/img/oke.png" alt="" style="transform: scale(2.8);">
                 <!-- Uncomment the line below if you also wish to use text logo -->
                 <!-- <h1 class="sitename">NewBiz</h1>  -->
             </a>
