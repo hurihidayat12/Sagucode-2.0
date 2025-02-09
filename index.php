@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Index - Sagucode Bootstrap Template</title>
+    <title>Index - Budakite</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/21.png" rel="icon">
+    <link href="assets/img/21.png" rel="apple-touch-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -49,9 +49,9 @@
                     <p>Kami adalah tim konsultan berbakat untuk implementasi keamanan cyber, pengujian penetrasi & pengembangan iot</p>
                     <div class="d-flex">
                         <a href="https://wa.me/6282268298785" class="btn-get-started">Memulai chat</a>
-                        <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
-                            class="glightbox btn-watch-video d-flex align-items-center"><i
-                                class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
+                        <a href="https://www.youtube.com/watch?v=XKJ5Iej7DJU&t=1205s"
+                            class="glightbox btn-watch-video d-flex align-items-center" ><i
+                                class="bi bi-play-circle"></i><span>Watch Video</span></a>
                     </div>
                 </div>
             </div>
@@ -252,7 +252,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Why Us</h2>
-            <p>Kenapa harus mencoba atau memilih sagucode ?</p>
+            <p>Kenapa harus mencoba atau memilih Budakite?</p>
         </div><!-- End Section Title -->
 
         <div class="container">

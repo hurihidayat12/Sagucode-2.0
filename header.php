@@ -41,7 +41,7 @@
             <a href="index.html" class="logo d-flex align-items-center">
                 <img src="assets/img/oke.png" alt="" style="transform: scale(2.8);">
                 <!-- Uncomment the line below if you also wish to use text logo -->
-                <!-- <h1 class="sitename">NewBiz</h1>  -->
+                <!-- <h1 class="sitename">Budakite</h1>  -->
             </a>
 
             <nav id="navmenu" class="navmenu">
