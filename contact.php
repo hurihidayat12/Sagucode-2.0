@@ -33,7 +33,7 @@
                         <i class="bi bi-telephone flex-shrink-0"></i>
                         <div>
                             <h3>Call Us</h3>
-                            <p>+822 6829 8785</p>
+                            <p>62822 6829 8785</p>
                         </div>
                     </div><!-- End Info Item -->
 
@@ -47,27 +47,27 @@
 
                 </div>
 
-                <div class="col-lg-8">
-                    <form action="/forms/contact.php" method="post" action="/forms/share.php" class="php-email-form" data-aos="fade-up"
+                <div class="col-lg-8"> 
+                    <form method="post" action="contactsend.php" class="php-email-form" data-aos="fade-up"
                         data-aos-delay="200">
                         <div class="row gy-4">
 
                             <div class="col-md-6">
-                                <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                                <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required="">
                             </div>
 
                             <div class="col-md-6 ">
-                                <input type="email" class="form-control" name="email" placeholder="Your Email"
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Your Email"
                                     required="">
                             </div>
 
                             <div class="col-md-12">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject"
+                                <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject"
                                     required="">
                             </div>
 
                             <div class="col-md-12">
-                                <textarea class="form-control" name="message" rows="6" placeholder="Message"
+                                <textarea class="form-control" name="message" id="message" rows="6" placeholder="Message"
                                     required=""></textarea>
                             </div>
 

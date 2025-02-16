@@ -17,9 +17,9 @@
                         <span class="sitname">Budakite </span>
                     </a>
                     <div class="footer-contact pt-3">
-                        <p>A108 Adam Street</p>
-                        <p>Selatpanjang Riau, Indonesia 28753</p>
-                        <p class="mt-3"><strong>Phone:</strong> <span>+22 6829 8785</span></p>
+                        <p>Selatpanjang</p>
+                        <p>Riau, Indonesia 28753</p>
+                        <p class="mt-3"><strong>Phone:</strong> <span>+622 6829 8785</span></p>
                         <p><strong>Email:</strong> <span>hurihmeranti@gmail.com</span></p>
                     </div>
                     <div class="social-links d-flex mt-4">
@@ -33,10 +33,10 @@
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Terms of service</a></li>
+                        <li><a href="index.php#hero">Home</a></li>
+                        <li><a href="index.php#about">About us</a></li>
+                        <li><a href="index.php#services">Services</a></li>
+                        <li><a href="index.php/">Terms of service</a></li>
                         <li><a href="#">Privacy policy</a></li>
                     </ul>
                 </div>
@@ -44,11 +44,11 @@
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Our Services</h4>
                     <ul>
-                        <li><a href="#">Threat Intelligence</a></li>
-                        <li><a href="#">Development Website</a></li>
-                        <li><a href="#">Penetrasi Testing</a></li>
-                        <li><a href="#">Vulnerability Assessment</a></li>
-                        <li><a href="#">Development IOT</a></li>
+                        <li><a href="threat.php">Threat Intelligence</a></li>
+                        <li><a href="development.php" >Development Website</a></li>
+                        <li><a href="pentest.php">Penetrasi Testing</a></li>
+                        <li><a href="va.php">Vulnerability Assessment</a></li>
+                        <li><a href="iotdev.php">Development IOT</a></li>
                     </ul>
                 </div>
 

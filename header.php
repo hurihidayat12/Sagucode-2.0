@@ -38,24 +38,24 @@
     <header id="header" class="header d-flex align-items-center sticky-top">
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-            <a href="index.html" class="logo d-flex align-items-center">
-                <img src="assets/img/oke.png" alt="" style="transform: scale(2.8);">
+            <a href="index.php" class="logo d-flex align-items-center">
+                <img src="assets/img/oke.png" alt="" style="transform: scale(2.2); padding-left:10px">
                 <!-- Uncomment the line below if you also wish to use text logo -->
                 <!-- <h1 class="sitename">Budakite</h1>  -->
             </a>
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a href="#hero" class="active">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#team">Team</a></li>
+                    <li><a href="index.php#hero" class="active">Home</a></li>
+                    <li><a href="index.php#about">About</a></li>
+                    <li><a href="index.php#services">Services</a></li>
+                    <li><a href="index.php#portfolio">Portfolio</a></li>
+                    <li><a href="index.php#team">Team</a></li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i
                                 class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li><a href="#">Threat Intelligence</a></li>
-                            <li class="dropdown"><a href="#"><span>Development Website</span> <i
+                            <li><a href="threat.php">Threat Intelligence</a></li>
+                            <li class="dropdown"><a href="development.php"><span>Development Website</span> <i
                                         class="bi bi-chevron-down toggle-dropdown"></i></a>
                                 <ul>
                                     <li><a href="#">Web Design</a></li>
@@ -65,9 +65,9 @@
                                     <li><a href="#">Marketing</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Penetrasi Testing</a></li>
-                            <li><a href="#">Vulnerability Assessment</a></li>
-                            <li><a href="#">Development Internet of thing (IOT)</a></li>
+                            <li><a href="pentest.php" >Penetrasi Testing</a></li>
+                        <li><a href="va.php" >Vulnerability Assessment</a></li>
+                        <li><a href="iotdev.php" class="active">Development IOT</a></li>
                         </ul>
                     </li>
                     <li><a href="#contact">Contact</a></li>
