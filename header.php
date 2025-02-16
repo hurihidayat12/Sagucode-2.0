@@ -48,10 +48,10 @@
                 <ul>
                     <li><a href="index.php#hero" class="active">Home</a></li>
                     <li><a href="index.php#about">About</a></li>
-                    <li><a href="index.php#services">Services</a></li>
+                    <!-- <li><a href="index.php#services">Services</a></li> -->
                     <li><a href="index.php#portfolio">Portfolio</a></li>
                     <li><a href="index.php#team">Team</a></li>
-                    <li class="dropdown"><a href="#"><span>Services</span> <i
+                    <li class="dropdown"><a href="index.php#services"><span>Services</span> <i
                                 class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li><a href="threat.php">Threat Intelligence</a></li>

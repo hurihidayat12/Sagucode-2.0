@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row gy-4">
                 <div class="col-lg-5 order-lg-last hero-img" data-aos="zoom-out" data-aos-delay="100">
-                    <img src="assets/img/services/priv.png" class="img-fluid animated" alt="">
+                    <img src="assets/img/hero-img.svg" class="img-fluid animated" alt="">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-in">
                     <h1>Kami memberikan solusi untuk bisnis Anda!</h1>
